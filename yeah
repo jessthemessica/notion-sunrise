@@ -1,0 +1,6 @@
+<a href="https://time.is/Sydney" id="time_is_link" rel="nofollow" style="font-size:36px">Time in Sydney:</a>
+<span id="Sydney_z60b" style="font-size:36px"></span>
+<script src="//widget.time.is/en.js"></script>
+<script>
+time_is_widget.init({Sydney_z60b:{template:"SUN", sun_format:"Sunrise: srhour:srminute Sunset: sshour:ssminute", coords:"-33.8678500,151.2073200"}});
+</script>
